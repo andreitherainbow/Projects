@@ -5,5 +5,5 @@ body{
     text-align: center;
 }
 .center{
-    align-items: center;
+    align-content: center;
 }
