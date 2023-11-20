@@ -4,3 +4,6 @@ body{
 .textcenter{
     text-align: center;
 }
+.center{
+    align-items: center;
+}
