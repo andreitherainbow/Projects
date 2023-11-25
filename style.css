@@ -5,11 +5,7 @@ body{
     padding: 0;
     box-sizing: border-box;
 }
-.textcenter{
-    text-align: center;
-}
 .center{
-    text-align: center;
 }
 .nav-bar {
     background-color: #3498db;
