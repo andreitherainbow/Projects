@@ -4,12 +4,6 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}s
-div.nav-bar {
-    background-color: #3498db;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
 }
 .content{
     background-color: #ecf0f1;
@@ -34,3 +28,21 @@ p::selection {
 background-color: purple;
 color: white;
 }
+
+div.nav-bar {
+    background-color: yellow; padding: 20px;
+    text-align: center;}
+    .nav-bar a {
+    text-transform: uppercase;
+    }
+    div.content {
+    background-color: antiquewhite;
+    padding: 20px;
+    }
+    .content> h1 {
+    text-align: center;
+    background-color: rgb(255, 251, 246); padding: 10px;
+    }
+    P+ p{
+    background-color: rgb(255, 247, 236); padding: 10px;
+    }
