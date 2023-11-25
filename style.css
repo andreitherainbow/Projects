@@ -18,3 +18,9 @@ body{
     text-align: center;
     display: inline-block;
 }
+.content{
+    background-color: #ecf0f1;
+    padding: 20px;
+    margin: 10px;
+    font-family: Arial, sans-serif;
+}
