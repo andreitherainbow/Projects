@@ -1,5 +1,9 @@
 body{
     background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .textcenter{
     text-align: center;
@@ -12,4 +16,5 @@ body{
     color: #fff;
     padding: 10px;
     text-align: center;
+    display: inline-block;
 }
