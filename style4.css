@@ -19,9 +19,10 @@ opacity: 0.5;
 }
 /* Display */
 .none {
-}
+
 display: none;
 font-weight: bold;
+}
 .inline {
 display: inline;
 font-weight: bold;
@@ -31,7 +32,6 @@ display: block;
 font-weight: bold;
 }
 h3 {
-background-color:
+    text-align: center;
+background-color:aquamarine;
 }
-text-align: center;
-aquamarine;
