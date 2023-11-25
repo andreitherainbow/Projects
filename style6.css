@@ -9,8 +9,9 @@ text-align: center;
 margin-bottom: 10px;
 }
 .banner {
-background-color: height: 200px;
-aqua;}
+background-color:aqua;
+ height: 200px;
+}
 .content {
 background-color: rgb(246, 213, 213);
 height: 400px;
