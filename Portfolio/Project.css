@@ -1,8 +1,18 @@
+/*Color Palette
+#7209B7
+33A0CA3
+#4361EE
+#F72585
+*/
 
 body{
     background-color: 3a0ca3;
 }
 p.nav-bar {
-    background-color:7209b7; padding: 20px;
+ background-color:#7209b7; padding: 20px;
     text-align: center;
+
+}
+.burple{
+ color:#4361EE;
 }
