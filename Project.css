@@ -64,6 +64,22 @@ div.noice{
     animation: myexpand1 2s ease forwards;
 
 }
+#block1{
+  color:rgb(255, 255, 255);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 25px;
+  width: 1100px;
+  height: 900px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 10%;
+  background:url(Woo.jpg);
+  box-shadow: 10px, 5px ,5px, black;
+  cursor: pointer;
+  animation: myexpand1 2s ease forwards;
+
+}
+
 div#block > p{
     animation:fadein 5s ease;
 }
