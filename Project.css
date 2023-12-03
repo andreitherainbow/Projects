@@ -1,9 +1,4 @@
-/*Color Palette
-#7209B7
-#3A0CA3
-#4361EE
-#F72585
-*/
+
 
 body{
     background-image: url(background.jpg);
@@ -13,18 +8,7 @@ body{
     background-size: cover;
     text-align: center;
 }
-/* p.nav-bar {
- background:linear-gradient(#3A0CA3, #0000); 
-  padding: 20px;
-    text-align: center;
-margin: 0px;
-} */
-.burple{
- color:#4361EE;
- background:linear-gradient(to right, #3100a4, #0000);
- /* background-repeat: no-repeat;
- background-attachment: fixed; */
-}
+
 div.noice{
     color:rgb(255, 255, 255);
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
