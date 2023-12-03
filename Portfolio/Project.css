@@ -60,4 +60,6 @@ div.noice{
     margin-right: 15%;
     margin-bottom: 10%;
     background:linear-gradient(to right, navy,maroon);
+    box-shadow: 10px, 5px ,5px, black;
+
 }
