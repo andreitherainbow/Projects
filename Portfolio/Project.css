@@ -28,12 +28,12 @@ margin: 0px;
 div.noice{
     color:rgb(255, 255, 255);
    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-   font-size: 20px;
+   font-size: 25px;
    width: 1100px;
    height: 500px;
    margin-left: 15%;
    margin-right: 15%;
-   margin-bottom: 50%;
+   margin-bottom: 10%;
    background:linear-gradient(to right, navy,maroon);
 }
 #top{
@@ -51,14 +51,46 @@ div.noice{
     height: 40px;
 }
 #Skills{
-
+    color:rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    width: 1100px;
+    height: 500px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    background:linear-gradient(to right, navy,maroon);
 }
-#Project{
-
+#Projects{
+    color:rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    width: 1100px;
+    height: 500px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    background:linear-gradient(to right, navy,maroon);
 }
 #Education{
-
+    color:rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    width: 1100px;
+    height: 500px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    background:linear-gradient(to right, navy,maroon);
 }
 #Contact{
-
+    color:rgb(255, 255, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    width: 1100px;
+    height: 500px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10%;
+    background:linear-gradient(to right, navy,maroon);
 }
