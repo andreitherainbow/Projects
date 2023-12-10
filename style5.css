@@ -23,5 +23,5 @@ height: 100px;
 }
 img {
 width: 100%;
-filter: grayscale (100%) invert(100%);
+filter: contrast(100%) grayscale(100%);
 }
