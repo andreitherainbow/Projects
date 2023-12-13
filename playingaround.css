@@ -13,8 +13,15 @@ div{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     width: 200px;
     height: 200px;
-    margin: 200px;
-    
+    margin: 50px;
+}
+.ok{
+    /* float:left; */
+    float:inline-start;
+
+}
+.notok{
+    float:inline-start;
 }
 div:hover{
     animation: myexpand1 2s ease forwards;
@@ -105,8 +112,8 @@ div#block > p{
       width: 200px;
     }
     100% {
-        height: 900px;
-        width: 900px;
+        height: 500px;
+        width: 500px;
     }
   }
  
