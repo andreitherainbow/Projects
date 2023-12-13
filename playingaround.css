@@ -20,9 +20,7 @@ div{
     float:inline-start;
 
 }
-.notok{
-    float:inline-start;
-}
+
 div:hover{
     animation: myexpand1 2s ease forwards;
 
